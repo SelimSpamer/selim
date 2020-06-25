@@ -75,7 +75,7 @@ try:
                  
                      count += 1
         except:
-            print (👉 👈)
+            print (" ")
     elif num == 2:
         print("\n")		
         try:
@@ -95,7 +95,7 @@ try:
                  
                      count += 1
         except:
-            print (👉 👈)
+            print (" ")
             
     elif num == 3:
         print("\n")		
