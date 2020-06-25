@@ -16,7 +16,7 @@ print("""
 \033[1;31m\033[1;37m     ╚═══╩═══╩═══╩══╩╝╚╝╚╩╩═══╩═══╝─╚╝───╚╝
 \033[1;31m                                                                        ANGELSECURITYTEAM 
 
-\033[1;31m1)\033[1;37mUnited States                \033[1;31m31)\033[1;37mMexico                \033[1;31m61)\033[1;37mMoldova
+\033[1;31m1)\033[1;37mBangladesh                   \033[1;31m31)\033[1;37mMexico                \033[1;31m61)\033[1;37mMoldova
 \033[1;31m2)\033[1;37mJapan                        \033[1;31m32)\033[1;37mFinland               \033[1;31m62)\033[1;37mNicaragua
 \033[1;31m3)\033[1;37mItaly                        \033[1;31m33)\033[1;37mChina                 \033[1;31m63)\033[1;37mMalta
 \033[1;31m4)\033[1;37mKorea                        \033[1;31m34)\033[1;37mChile                 \033[1;31m64)\033[1;37mTrinidad And Tobago
@@ -44,7 +44,7 @@ print("""
 \033[1;31m26)\033[1;37mBrazil                      \033[1;31m56)\033[1;37mLithuania             \033[1;31m86)\033[1;37mFaroe Islands
 \033[1;31m27)\033[1;37mBulgaria                    \033[1;31m57)\033[1;37mPalestinian           \033[1;31m87)\033[1;37mGuatemala
 \033[1;31m28)\033[1;37mIndonesia                   \033[1;31m58)\033[1;37mNew Zealand           \033[1;31m88)\033[1;37mNepal
-\033[1;31m29)\033[1;37mDenmark                     \033[1;31m59)\033[1;37mBangladeh             \033[1;31m89)\033[1;37mPeru
+\033[1;31m29)\033[1;37mDenmark                     \033[1;31m59)\033[1;37mUnited States            \033[1;31m89)\033[1;37mPeru
 \033[1;31m30)\033[1;37mArgentina                   \033[1;31m60)\033[1;37mPanama                \033[1;31m90)\033[1;37mUruguay
                                                         \033[1;31m91)\033[1;37mExtra
 """)
